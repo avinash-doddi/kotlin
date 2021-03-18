@@ -6,11 +6,11 @@ fun main(args: Array<String>) {
     println()
 
     print("for (i in 5..1) print(i) = ")
-    for (i in 5..1) print(i)             // here this prints nothing
+    for (i in 5..1) print(i)               // here this prints nothing
 
     println()
 
-    print("for (i in 5 downTo 1) print(i) = ")
+    print(" for (i in 5 downTo 1) print(i) =  ")
     for (i in 5 downTo 1) print(i)
 
     println()
